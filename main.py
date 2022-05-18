@@ -96,7 +96,7 @@ def resetLogType():
 
 systemRunning = True #Enable power LED
 
-logFile = open("ControlPanel.log", "a") #open log file
+logFile = open("ControlPanel.log", "a") #open or create log file
 
 #start system
 if systemRunning == True:
