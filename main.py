@@ -2,7 +2,6 @@
 from gpiozero import LED, Button
 from time import sleep
 from datetime import datetime
-import atexit
 
 #globals
 global systemRunning
