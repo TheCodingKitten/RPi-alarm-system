@@ -1,2 +1,3 @@
-.log
 ControlPanel.log
+*.log
+*.bak
