@@ -111,7 +111,6 @@ def resetAlarm():
 #logType reset fn
 def resetLogType():
     global logType
-    logType = "SYSTEM ERROR"
 
 systemRunning = True #Allow system to start
 
